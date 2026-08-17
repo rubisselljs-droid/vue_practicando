@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import Componente from "./components/Componente.vue";
+import Header from "./pages/Header.vue";
 //import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
-  <Componente />
+  <Header />
 </template>

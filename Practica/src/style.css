@@ -1,1 +1,13 @@
 @import "tailwindcss";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@theme {
+  --color-fondo: #f8f9fa;
+  --color-texto: #f9cd14;
+  --color-primario: #132b47;
+  --fuente-principal: "Segoe UI", system-ui, sans-serif;
+}
