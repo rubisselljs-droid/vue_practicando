@@ -31,7 +31,7 @@ function Eviar() {
       />
     </div>
     <div class="flex space-x-4">
-      <a href="" class="text-white hover:text-amber-300">INICIO</a>
+      <L href="" class="text-white hover:text-amber-300">INICIO</L>
       <a href="" class="text-white hover:text-amber-300">NOSOTROS</a>
       <a href="" class="text-white hover:text-amber-300">SERVICIOS</a>
       <a href="" class="text-white hover:text-amber-300">CONTACTO</a>
